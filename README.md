@@ -1,4 +1,4 @@
-# Telegram Crypto Bot
+# Telegram Crypto and Forex Bot
 
 ## Overview:
 This Telegram bot provides real-time information about the current prices of the top 5 cryptocurrencies and selected forex pairs. It integrates with Telegram to deliver this information promptly to users.
